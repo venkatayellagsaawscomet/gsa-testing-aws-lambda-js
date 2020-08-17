@@ -10,3 +10,6 @@ Project to showcase component testing AWS Lambda functions written in JavaScript
 ## Usage
 
 Run `npm test`
+
+
+![Alt text](C:\Users\Yella\Downloads\Screenshots\2020\2020-08-17 12_25_06-Command Prompt.jpg?raw=true "Optional Title")
